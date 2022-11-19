@@ -52,3 +52,11 @@ side-effects used in [installer.exe](https://github.com/pointfree-interpreter/po
 ![heise Download](https://www.heise.de/software/icons/download_logo1.png)\
 Virus checked with 40 virus scanners from heise.de:  [download](https://www.heise.de/download/product/fp-trivia)
 
+
+##
+### [Can you write any function in point-free notation?](https://www.reddit.com/r/haskell/comments/o4zyz5/can_you_write_any_function_in_pointfree_notation/)
+![friedbrice](https://raw.githubusercontent.com/metazip/pointfrip/main/backus-fp/friedbrice1.png)
+
+
+This is a Red and λ-Red language: [Closed applicative languages](http://dirkgerrits.com/publications/john-backus.pdf#section.8)
+
