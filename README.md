@@ -2,7 +2,7 @@
 **pointfree interpreter with instance variables and classes, in lazarus**
 #
 ![eye](https://raw.githubusercontent.com/pointfree-interpreter/pointfrip/main/images/eye.png)
-![tahoma-fact](https://raw.githubusercontent.com/pointfree-interpreter/pointfrip/main/images/tahoma-fact.png)
+![tahoma-fact](https://raw.githubusercontent.com/pointfree-interpreter/pointfrip/main/images/tahomafact.png)
 
 \
 [Example](https://github.com/pointfree-interpreter/pointfrip/blob/main/examples/drache.txt) \
