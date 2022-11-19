@@ -18,7 +18,7 @@ for example: generation of numbers with iota
     iota ° 10
     --> (1 ; 2 ; 3 ; 4 ; 5 ; 6 ; 7 ; 8 ; 9 ; 10 ;)
 
-possibility to work with tables like in [trivia](https://esolangs.org/wiki/FP_trivia)
+possibility to work with tables/instance-variables like in [trivia](https://esolangs.org/wiki/FP_trivia)
 
     (#beta & #alpha & #gamma & #delta & "US") ° (delta:="K") ° '("A" alpha "B" beta "C" gamma)
     --> "BACKUS"
@@ -30,10 +30,10 @@ defining classes and using objects
                    [tail] == tail dip
                    [comma] == (top°[0]) obj [1],pop°[0]
                    [reverse] == reverse dip  // method
-                 }                           // reverse == [reverse] fn ...
+                 }
     --> ( )
     
-    reverse ° (constr :: A;B;C;)
+    reverse ° (constr :: A;B;C;)             // reverse == [reverse] fn ...
     --> (constr :: C ; B ; A ;)
 
 side-effects used in [installer.exe](https://github.com/pointfree-interpreter/pointfrip/tree/main/installer)
