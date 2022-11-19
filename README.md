@@ -3,8 +3,8 @@
 #
 ![eye](https://raw.githubusercontent.com/pointfree-interpreter/pointfrip/main/images/eye.png)
 ![tahoma-fact](https://raw.githubusercontent.com/pointfree-interpreter/pointfrip/main/images/tahoma-fact.png)
-  
-  
+
+\
 **Combinator Language** like [FP](https://dl.acm.org/doi/pdf/10.1145/359576.359579) from John Backus
 
     ip ≡ (+ \) ° (* aa) ° trans ° ee
@@ -40,7 +40,7 @@ side-effects used in [installer.exe](https://github.com/pointfree-interpreter/po
 
     ((#draco loadtext)°(draco:=corepath & "drache.pf") eff 'io)>>(it showinfo)>>(#draco run)>>()
 
-\
+
 [Example](https://github.com/pointfree-interpreter/pointfrip/blob/main/examples/drache.txt) \
 [Quickinfo.pdf](https://github.com/pointfree-interpreter/pointfrip/blob/main/examples/documents/quickinfo.pdf) \
 [Reference.pdf](https://github.com/pointfree-interpreter/pointfrip/blob/main/examples/documents/reference.pdf) \
