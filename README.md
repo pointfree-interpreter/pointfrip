@@ -2,8 +2,8 @@
 **pointfree interpreter with instance variables and classes, in lazarus**
 #
 ![eye](https://raw.githubusercontent.com/pointfree-interpreter/pointfrip/main/images/eye.png)
-![tahoma-fact](https://raw.githubusercontent.com/pointfree-interpreter/pointfrip/main/images/tahoma-fact.png)
-#
+# ![tahoma-fact](https://raw.githubusercontent.com/pointfree-interpreter/pointfrip/main/images/tahoma-fact.png)
+
 \
 **Combinator Language** like [FP](https://dl.acm.org/doi/pdf/10.1145/359576.359579) from John Backus
 
