@@ -47,3 +47,8 @@ side-effects used in [installer.exe](https://github.com/pointfree-interpreter/po
 
 ### [Getting Started ...](https://github.com/pointfree-interpreter/pointfrip/blob/main/Getting%20Started.md)
 
+##
+\
+![heise Download](https://www.heise.de/software/icons/download_logo1.png)\
+Virus checked with 40 virus scanners from heise.de:  [download](https://www.heise.de/download/product/fp-trivia)
+
