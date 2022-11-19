@@ -36,7 +36,7 @@ defining classes and using objects
     reverse ° (constr :: A;B;C;)
     --> (constr :: C ; B ; A ;)
 
-side-effects used in [installer.exe]()
+side-effects used in [installer.exe](https://github.com/pointfree-interpreter/pointfrip/tree/main/installer)
 
     ((#draco loadtext)°(draco:=corepath & "drache.pf") eff 'io)>>(it showinfo)>>(#draco run)>>()
 
