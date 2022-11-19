@@ -7,6 +7,7 @@
 ![tahoma-fact](https://raw.githubusercontent.com/pointfree-interpreter/pointfrip/main/images/tahoma-fact.png)
 
 
+[Quickinfo.pdf](https://github.com/pointfree-interpreter/pointfrip/blob/main/examples/documents/quickinfo.pdf)
 
 ### [Getting Started ...](https://github.com/pointfree-interpreter/pointfrip/blob/main/Getting%20Started.md)
 
