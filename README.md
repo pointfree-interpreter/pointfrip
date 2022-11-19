@@ -1,4 +1,4 @@
-![pointfrip](https://raw.githubusercontent.com/pointfree-interpreter/pointfrip/main/images/pflogo.png)
+![pointfrip](https://raw.githubusercontent.com/pointfree-interpreter/pointfrip/main/images/pflogo.png) \
 **pointfree interpreter with instance variables and classes, in lazarus**
 
 
