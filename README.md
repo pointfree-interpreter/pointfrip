@@ -55,7 +55,7 @@ Virus checked with 40 virus scanners from heise.de:  [download](https://www.heis
 
 ##
 ### [Can you write any function in point-free notation?](https://www.reddit.com/r/haskell/comments/o4zyz5/can_you_write_any_function_in_pointfree_notation/)
-![friedbrice](https://raw.githubusercontent.com/pointfree-interpreter/pointfrip/main/images/friedbrice1.png)
+![friedbrice](https://raw.githubusercontent.com/pointfree-interpreter/pointfrip/main/images/friedbrice24.png)
 
 
 This is a Red and λ-Red language: [Closed applicative languages](http://dirkgerrits.com/publications/john-backus.pdf#section.8)
