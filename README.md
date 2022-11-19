@@ -24,7 +24,7 @@ possibility to work with tables/instance-variables like in [trivia](https://esol
 
 defining classes and using objects
 
-    constr == .. { object
+    constr == .. { list
                    [head] == head ° pop
                    [tail] == tail dip
                    [comma] == (top°[0]) obj [1],pop°[0]
