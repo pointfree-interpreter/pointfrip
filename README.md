@@ -40,7 +40,7 @@ side-effects used in [installer.exe](https://github.com/pointfree-interpreter/po
     ((#draco loadtext)°(draco:=corepath & "drache.pf") eff 'io)>>(it showinfo)>>(#draco run)>>()
 
 
-[Example](https://github.com/pointfree-interpreter/pointfrip/blob/main/examples/drache.txt) \
+[Example](https://github.com/pointfree-interpreter/pointfrip/blob/main/images/progopedia-drache.png) \
 [Quickinfo.pdf](https://github.com/pointfree-interpreter/pointfrip/blob/main/examples/documents/quickinfo.pdf) \
 [Reference.pdf](https://github.com/pointfree-interpreter/pointfrip/blob/main/examples/documents/reference.pdf) \
 [Website](https://pointfree-interpreter.github.io/)
